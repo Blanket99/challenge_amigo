@@ -35,8 +35,8 @@ A través de una interfaz sencilla, los usuarios pueden agregar nombres, visuali
 
 ## 🎮 Cómo usar la aplicación  
 1️⃣ Abrir el archivo **`index.html`** en un navegador.  
-2️⃣ Ingresa un nombre en el campo de texto y presiona **"Añadir"**.
-3️⃣ Visualizar los nombres añadidos en la lista.
+2️⃣ Ingresa un nombre en el campo de texto y presiona **"Añadir"**.  
+3️⃣ Visualizar los nombres añadidos en la lista.  
 4️⃣ Presionar **"Sortear Amigo"** para obtener un nombre aleatorio.  
 
 ---
